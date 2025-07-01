@@ -1,0 +1,45 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build result files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.zip
+*.xml
+
+# Visual Studio auto-generated files
+.vs/
+Generated_Code/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Debug-specific files
+*.vshost.*
+*.vshost.exe*
+*.vshost.config
+
+# Publish files
+*.publish.xml
+
+# Resharper, Rider, etc.
+.idea/
+*.DotSettings.user
+
+# Ignore package restore folders
+packages/
+
+# Backup files
+*~

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "比較缺少", "比較缺少\比較缺少.vbproj", "{F0919938-DF71-4E37-A73C-193F6F55264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0919938-DF71-4E37-A73C-193F6F55264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0919938-DF71-4E37-A73C-193F6F55264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0919938-DF71-4E37-A73C-193F6F55264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0919938-DF71-4E37-A73C-193F6F55264D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8594410B-8FAE-4756-9DD1-BE10989D0056}
+	EndGlobalSection
+EndGlobal
